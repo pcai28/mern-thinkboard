@@ -1,3 +1,5 @@
+# ThinkBoard
+
 ## What is it
 
 It’s a full-stack note-taking web application where users can create, read, update, and delete notes.
