@@ -13,3 +13,6 @@ I implemented the RESTful API, connected it to MongoDB, built the frontend pages
 
 ## Learning
 The biggest learning was understanding how data flows from the frontend to the backend and then to the database. I also learned how to structure API endpoints and protect the backend with rate limiting.
+
+## Live Link
+[https://mern-thinkboard-m8d9.onrender.com/](https://mern-thinkboard-m8d9.onrender.com/)
